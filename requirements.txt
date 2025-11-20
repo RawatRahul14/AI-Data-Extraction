@@ -1,5 +1,9 @@
 ## === Data Extract ===
 pdfplumber
+spacy
+
+## === Agent ===
 langchain
+langchain-openai
 
 -e .
