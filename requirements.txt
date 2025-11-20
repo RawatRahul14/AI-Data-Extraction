@@ -1,0 +1,5 @@
+## === Data Extract ===
+pdfplumber
+langchain
+
+-e .
