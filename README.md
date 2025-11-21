@@ -1,3 +1,8 @@
+![Python](https://img.shields.io/badge/Python-3.11-blue.svg)
+![LangChain](https://img.shields.io/badge/LangChain-Enabled-green)
+![OpenAI](https://img.shields.io/badge/OpenAI-gpt--4o--mini-orange)
+![SpaCy](https://img.shields.io/badge/SpaCy-NLP-blue)
+![License](https://img.shields.io/badge/License-MIT-success)
 # AI-Data-Extraction
 
 A modular pipeline for extracting structured key-value information from PDF documents.  
@@ -14,17 +19,6 @@ The system performs PDF text extraction, sentence segmentation, LLM-based inform
 - Confidence-driven key reuse and refinement  
 - Exporting final structured dataset to Excel  
 - Modular pipeline architecture (DataExtract and InfoExtract)
-
----
-
-## Badges
-
-![Python](https://img.shields.io/badge/Python-3.11-blue.svg)
-![LangChain](https://img.shields.io/badge/LangChain-Enabled-green)
-![OpenAI](https://img.shields.io/badge/OpenAI-gpt--4o--mini-orange)
-![SpaCy](https://img.shields.io/badge/SpaCy-NLP-blue)
-![Build](https://img.shields.io/badge/Build-Passing-brightgreen)
-![License](https://img.shields.io/badge/License-MIT-success)
 
 ---
 
