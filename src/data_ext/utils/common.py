@@ -1,4 +1,5 @@
 # === Python Modules ===
+from typing import List, Dict
 import spacy
 from spacy.cli import download
 

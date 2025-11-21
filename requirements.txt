@@ -1,9 +1,14 @@
 ## === Data Extract ===
 pdfplumber
 spacy
+pandas
+openpyxl
 
 ## === Agent ===
 langchain
 langchain-openai
+
+## === ENV ===
+python-dotenv
 
 -e .

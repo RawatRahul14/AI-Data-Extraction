@@ -9,7 +9,7 @@ from data_ext.components.sentence import extract_sentences
 class DataExtract:
     def __init__(
             self,
-            data_path: str | Path
+            data_path: str | Path = Path("data/Data Input.pdf")
     ):
         self.data_path = data_path
 
